@@ -2,7 +2,8 @@ const gallery = [
 { src: "thebelljar.png", caption: "THE BELL JAR BY SYLVIA PALTH" }, 
 { src: "crimeand.png", caption: "CRIME AND PUNISHMENT BY FYODOR DOSTOEVSKY" }, 
 { src: "letterstomilenia.png", caption: "LETTERS TO MILLENEA BY FRANZ KAFKA" }, 
-{ src: "prideand.png", caption: "PRIDE AND PREJUDUCE BY JANE AUSTEN" } 
+{ src: "prideand.png", caption: "PRIDE AND PREJUDUCE BY JANE AUSTEN" },
+{ src: "littlewomen.png", caption: "LITTLE WOMEN BY LOUISA MAY ALCOTT"},
 ]; 
 let index = 0;
 

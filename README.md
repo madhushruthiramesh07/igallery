@@ -1,5 +1,5 @@
 # Ex.07 Design of Interactive Image Gallery
-## Date: 24-12-2025
+## Date: 26-12-2025
 
 ## AIM:
 To design a web application for an inteactive image gallery for a minimum five images with next and previous buttons.
@@ -137,7 +137,8 @@ const gallery = [
 { src: "thebelljar.png", caption: "THE BELL JAR BY SYLVIA PALTH" }, 
 { src: "crimeand.png", caption: "CRIME AND PUNISHMENT BY FYODOR DOSTOEVSKY" }, 
 { src: "letterstomilenia.png", caption: "LETTERS TO MILLENEA BY FRANZ KAFKA" }, 
-{ src: "prideand.png", caption: "PRIDE AND PREJUDUCE BY JANE AUSTEN" } 
+{ src: "prideand.png", caption: "PRIDE AND PREJUDUCE BY JANE AUSTEN" },
+{ src: "littlewomen.png", caption: "LITTLE WOMEN BY LOUISA MAY ALCOTT"},
 ]; 
 let index = 0;
 
@@ -171,6 +172,8 @@ function prevImage() {
 ![alt text](3.png)
 
 ![alt text](4.png)
+
+![alt text](5.png)
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
